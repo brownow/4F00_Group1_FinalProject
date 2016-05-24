@@ -1,0 +1,25 @@
+﻿Build started 21/04/2016 11:59:59 AM.
+     1>Project "c:\Users\Owen\documents\visual studio 2015\Projects\NerveSiganlProcessing\NerveSiganlProcessing\NerveSiganlProcessing.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp neuronCollection.cpp singleNeuron.cpp singleSignal.cpp singleWire.cpp wiresCollection.cpp
+         wiresCollection.cpp
+         singleWire.cpp
+         singleSignal.cpp
+         singleNeuron.cpp
+         neuronCollection.cpp
+         main.cpp
+     1>c:\users\owen\documents\visual studio 2015\projects\nervesiganlprocessing\nervesiganlprocessing\main.cpp(57): warning C4244: '=': conversion from 'time_t' to 'int', possible loss of data
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\owen\documents\visual studio 2015\Projects\NerveSiganlProcessing\Debug\NerveSiganlProcessing.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"c:\users\owen\documents\visual studio 2015\Projects\NerveSiganlProcessing\Debug\NerveSiganlProcessing.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\owen\documents\visual studio 2015\Projects\NerveSiganlProcessing\Debug\NerveSiganlProcessing.lib" /MACHINE:X86 Debug\main.obj
+         Debug\neuronCollection.obj
+         Debug\singleNeuron.obj
+         Debug\singleSignal.obj
+         Debug\singleWire.obj
+         Debug\wiresCollection.obj
+         NerveSiganlProcessing.vcxproj -> c:\users\owen\documents\visual studio 2015\Projects\NerveSiganlProcessing\Debug\NerveSiganlProcessing.exe
+     1>Done Building Project "c:\Users\Owen\documents\visual studio 2015\Projects\NerveSiganlProcessing\NerveSiganlProcessing\NerveSiganlProcessing.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.00
